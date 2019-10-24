@@ -1769,7 +1769,7 @@ body[id*=luckydaylotto] .cmp-help-center__button:hover{border-color:#99d9f0}
 .winners-banner .winnersBannerCard:first-of-type{width:100%;text-align:center;display:initial}
 }
 .winners-banner .winnersBannerCard__mobile{display:none}
-.winners-banner .winnersBannerCard__image{width:199px;height:199px;border-radius:50%;border:9px solid #eee;background-color:#1c3f94;object-fit:cover}
+.winners-banner .winnersBannerCard__image{width:300px;height:300px;border:9px solid #eee;background-color:#1c3f94;object-fit:cover}
 .winners-banner .winnersBannerCard__prize{font-family:MuseoSlab;height:42px;width:220px;border-radius:32.5px;background:linear-gradient(90deg,#ffd201 40%,rgba(255,255,255,0));color:#1c3f94;font-size:30px;line-height:42px;text-align:center;margin:-40px auto 15px;position:relative}
 .winners-banner .winnersBannerCard__text span{display:block}
 .winners-banner .winnersBannerCard__text strong{font-weight:700}
